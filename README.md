@@ -5,4 +5,4 @@ The Dataset can be downloaded from https://drive.google.com/drive/folders/0Bz8a_
 
 It consists of both training and test datasets
 
-In our analysis we have taken a sample of training data which is 25% of the whole training data
+In my analysis I have taken a sample of training data which is 25% of the whole training data
